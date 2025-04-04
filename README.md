@@ -66,7 +66,7 @@ Ignore the small implementation folder it is just for executing small task so i 
    ```
 2. Run the application:
    ```sh
-   python main.py
+   python complete_logic_simulator.py
    ```
    (Replace `main.py` with your main script name.)
 3. The GUI will launch, allowing you to:
