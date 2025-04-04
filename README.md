@@ -5,6 +5,8 @@ GUI node editor with a topbar (File: New, Open, Save, Exit; Edit: Undo, Redo, Cu
 ## Overview
 This is a GUI-based node editor application designed for creating and simulating digital logic workflows. It features a topbar with menu options, a side panel for node selection, and a main window with tabbed interfaces for building node trees.
 
+## IGNORE
+Ignore the small implementation folder it is just for executing small task so i can come up with the whole project.
 ## Features
 
 ### Topbar Menus:
