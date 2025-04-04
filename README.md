@@ -91,6 +91,7 @@ node-editor/
 ```
 
 ## Contributing
+Devendra Kumar Dewangan(Project Developer)
 Feel free to fork this repository, submit pull requests, or report issues to enhance functionality.
 
 
